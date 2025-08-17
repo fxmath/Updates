@@ -1,6 +1,6 @@
 ---
 title: "Welcome to FxMath Financial Solution"
-date: 2025-08-17
+date: 2025-08-15
 categories: [Introduction, AI, Expert Advisors]
 tags: [Forex, AI Trading, EAs, FxMath, Financial Technology]
 ---
